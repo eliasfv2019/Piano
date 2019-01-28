@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=key\ note
+comment1.target=Key(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Create\ a\ new\ key.\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
