@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Tue Jan 29 13:43:58 AST 2019
+#Thu Jan 31 13:13:58 AST 2019
 readme.name=@README
 class.Key.image=white-key.png
 target2.naviview.expanded=true
@@ -23,11 +23,11 @@ target2.height=50
 target1.x=190
 target1.naviview.expanded=true
 dependency1.to=Key
-editor.fx.0.height=0
+editor.fx.0.height=722
 target1.editor.height=609
 target1.showInterface=false
 target1.name=Piano
-editor.fx.0.width=0
+editor.fx.0.width=800
 target2.typeParameters=
 readme.y=10
 readme.x=10
@@ -42,8 +42,8 @@ mainWindow.y=46
 mainWindow.height=534
 mainWindow.x=85
 class.Piano.superclass=greenfoot.World
-editor.fx.0.y=0
-editor.fx.0.x=0
+editor.fx.0.y=31
+editor.fx.0.x=283
 readme.width=47
 target2.type=ClassTarget
 world.lastInstantiated=Piano
