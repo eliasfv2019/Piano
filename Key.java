@@ -1,3 +1,10 @@
+/**
+ * An example of a method - replace this comment with your own
+ *
+ * @param  y  a sample parameter for a method
+ * @return    the sum of x and y
+ */
+
 import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
 public class Key extends Actor
 {
@@ -9,7 +16,13 @@ public class Key extends Actor
      * Create a new key.
      */
     public Key(String colour, String key, String note)
-    {
+    {/**
+         * An example of a method - replace this comment with your own
+         *
+         * @param  y  a sample parameter for a method
+         * @return    the sum of x and y
+         */
+
         isDown = false;
         this.key = key;
         this.colour = colour;
